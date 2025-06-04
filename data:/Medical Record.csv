@@ -1,0 +1,51 @@
+record_id;animal_id;visit_date;diagnosis;treatment;vet_name
+REC001;A001;10/31/2021;Upper Respiratory Infection;Antibiotics;Obadias
+REC002;A002;4/13/2009;Gastrointestinal Parasites;Deworming;Fulvia
+REC003;A003;4/13/2022;Skin Allergy;Anti-inflammatory;Eadie
+REC004;A004;8/1/2015;Ear Infection;Surgery;Vi
+REC005;A005;12/21/2018;Dental Disease;Dental Cleaning;Erasmus
+REC006;A006;7/9/2011;Fracture;Diet Plan;Paddie
+REC007;A007;2/10/2006;Obesity;Physical Therapy;Angil
+REC008;A008;11/22/2012;Arthritis;Insulin;Leanna
+REC009;A009;7/20/2024;Diabetes;Topical Cream;Jayson
+REC010;A010;8/5/2016;Kidney Disease;Ear Drops;Morganne
+REC011;A011;9/3/2005;Ear Infection;Surgery;Kurt
+REC012;A012;1/2/2025;Skin Allergy;Insulin;Corbett
+REC013;A013;4/5/2017;Obesity;Anti-inflammatory;Thatcher
+REC014;A014;10/31/2019;Arthritis;Deworming;Gillan
+REC015;A015;3/20/2019;Gastrointestinal Parasites;Physical Therapy;Imojean
+REC016;A016;4/10/2010;Upper Respiratory Infection;Antibiotics;Curtis
+REC017;A017;9/14/2007;Diabetes;Topical Cream;Carena
+REC018;A018;6/28/2014;Fracture;Ear Drops;Marget
+REC019;A019;8/9/2012;Kidney Disease;Surgery;Liana
+REC020;A020;8/27/2015;Dental Disease;Diet Plan;Felisha
+REC021;A021;1/11/2011;Chlamydia;Dental Cleaning;Piggy
+REC022;A022;10/11/2021;Gastrointestinal Parasites;Antibiotics;Tiphani
+REC023;A023;7/2/2018;Dental Disease;Anti-inflammatory;Gerri
+REC024;A024;9/27/2011;Fracture;Topical Cream;Bobbye
+REC025;A025;5/18/2015;Obesity;Physical Therapy;Peg
+REC026;A026;2/13/2023;Arthritis;Deworming;Alyse
+REC027;A027;12/5/2005;Diabetes;Insulin;Helenka
+REC028;A028;12/30/2015;Upper Respiratory Infection;Surgery;Rubi
+REC029;A029;6/28/2016;Kidney Disease;Anti-inflammatory;Cassi
+REC030;A030;9/22/2024;Skin Allergy;Ear Drops;Moyra
+REC031;A031;3/10/2007;Upper Respiratory Infection;Antibiotics;Betteann
+REC032;A032;8/1/2018;Dental Disease;Dental Cleaning;Rachelle
+REC033;A033;3/25/2015;Chlamydia;Diet Plan;Rania
+REC034;A034;2/12/2014;Gastrointestinal Parasites;Physical Therapy;Cordelia
+REC035;A035;7/24/2020;Obesity;Deworming;Vance
+REC036;A036;6/9/2011;Fracture;Insulin;Bartholemy
+REC037;A037;9/25/2017;Diabetes;Topical Cream;Chastity
+REC038;A038;11/25/2013;Skin Allergy;Ear Drops;Alfredo
+REC039;A039;3/22/2019;Upper Respiratory Infection;Anti-inflammatory;Moses
+REC040;A040;8/27/2023;Dental Disease;Surgery;Jackqueline
+REC041;A041;3/15/2011;Fracture;Antibiotics;Randy
+REC042;A042;9/12/2014;Ear Infection;Diet Plan;Jonis
+REC043;A043;5/16/2008;Kidney Disease;Dental Cleaning;Irwin
+REC044;A044;9/3/2009;Gastrointestinal Parasites;Deworming;Grayce
+REC045;A045;12/1/2020;Dental Disease;Ear Drops;Kissiah
+REC046;A046;3/20/2006;Obesity;Antibiotics;Benton
+REC047;A047;3/14/2020;Skin Allergy;Physical Therapy;Erica
+REC048;A048;9/4/2014;Arthritis;Insulin;Lockwood
+REC049;A049;6/12/2022;Upper Respiratory Infection;Dental Cleaning;Lyndsie
+REC050;A050;3/28/2021;Diabetes;Topical Cream;Gwenora

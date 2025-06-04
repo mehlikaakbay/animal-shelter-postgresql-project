@@ -1,0 +1,51 @@
+cage_id;location;capacity;current_occupancy
+C001;East Wing A1;5;4
+C002;Outdoor A1;5;3
+C003;East Wing A2;6;3
+C004;Outdoor A2;6;6
+C005;West Wing A1;5;4
+C006;West Wing A2;4;2
+C007;East Wing A3;5;2
+C008;South Wing A1;5;5
+C009;North Wing A1;4;3
+C010;North Wing A2;4;2
+C011;East Wing A4;5;3
+C012;East Wing A5;6;3
+C013;Outdoor A3;2;2
+C014;West Wing A3;5;1
+C015;Outdoor A4;3;1
+C016;East Wing A6;5;3
+C017;South Wing A2;3;3
+C018;West Wing A4;5;4
+C019;South Wing A3;3;1
+C020;South Wing A4;5;3
+C021;West Wing A5;3;2
+C022;East Wing B1;2;2
+C023;West Wing A6;6;4
+C024;Central Zone A1;6;3
+C025;Central Zone A2;3;3
+C026;East Wing B2;6;1
+C027;Outdoor B1;6;5
+C028;West Wing B1;5;2
+C029;East Wing B3;5;3
+C030;North Wing A3;3;2
+C031;Central Zone B1;5;3
+C032;Outdoor B2;4;2
+C033;North Wing A4;5;1
+C034;East Wing B4;6;5
+C035;East Wing C1;6;3
+C036;South Wing A5;5;5
+C037;East Wing C1;4;1
+C038;East Wing C2;4;3
+C039;North Wing A5;3;2
+C040;Outdoor B3;4;3
+C041;East Wing C3;2;2
+C042;West Wing B2;5;3
+C043;West Wing B3;3;1
+C044;North Wing C1;5;4
+C045;East Wing E1;5;3
+C046;West Wing C1;2;1
+C047;East Wing E2;3;3
+C048;North Wing C2;5;4
+C049;West Wing C2;3;2
+C050;South Wing B1;6;3
