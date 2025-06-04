@@ -25,6 +25,17 @@ A complete PostgreSQL implementation for an animal shelter database system. Deve
 - `queries/`: SQL query files
 - `screenshots/`: (Optional) query result images
 - `report/`: Final project report (PDF)
+  
+## ERD Diagram
+This diagram shows the full relational structure of the Animal Shelter Management System:
+![ERD Diagram](schema/erd.png)
+
+## Repository Highlights
+- Realistic PostgreSQL schema with foreign keys & constraints  
+- Fully normalized to 3NF  
+- Populated with meaningful test data using Mockaroo  
+- Query coverage: aggregation, filtering, joins, CTEs  
+- Professional project report and ERD diagram  
 
 ## Author
 Mehlika Rana Akbay
