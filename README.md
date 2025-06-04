@@ -28,7 +28,7 @@ A complete PostgreSQL implementation for an animal shelter database system. Deve
   
 ## ERD Diagram
 This diagram shows the full relational structure of the Animal Shelter Management System:
-![ERD Diagram](schema:/erd.png)
+![ERD Diagram](https://github.com/mehlikaakbay/animal-shelter-postgresql-project/blob/main/schema%3A/erd.png)
 
 ## Repository Highlights
 - Realistic PostgreSQL schema with foreign keys & constraints  
