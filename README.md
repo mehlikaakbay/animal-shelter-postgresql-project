@@ -25,6 +25,25 @@ A complete PostgreSQL implementation for an animal shelter database system. Deve
 - `queries/`: SQL query files
 - `screenshots/`: (Optional) query result images
 - `report/`: Final project report (PDF)
+
+---
+
+## CSV Format Notice
+
+>  All CSV files in `data/` use a **semicolon (`;`)** as the delimiter instead of a comma.
+
+To load them properly:
+
+### In Python:
+```python
+import pandas as pd
+df = pd.read_csv("data/Adopter.csv", delimiter=";")
+
+### In PostgreSQL:
+
+\copy adopter(adopter_id, full_name, email, phone, address)
+FROM 'data/Adopter.csv'
+WITH (FORMAT csv, DELIMITER ';', HEADER true);
   
 ## ERD Diagram
 This diagram shows the full relational structure of the Animal Shelter Management System:
