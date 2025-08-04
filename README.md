@@ -45,12 +45,6 @@ To load them properly:
 import pandas as pd
 df = pd.read_csv("data/Adopter.csv", delimiter=";")
 ```
-
-### In PostgreSQL:
-
-\copy adopter(adopter_id, full_name, email, phone, address)
-FROM 'data/Adopter.csv'
-WITH (FORMAT csv, DELIMITER ';', HEADER true);
   
 ## ERD Diagram
 This diagram shows the full relational structure of the Animal Shelter Management System:
