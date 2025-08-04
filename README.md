@@ -1,5 +1,11 @@
 # Animal Shelter PostgreSQL Project
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mockaroo](https://img.shields.io/badge/Mockaroo-Data--Generator-green?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-VM-orange?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-CLI-333333?style=for-the-badge&logo=linux&logoColor=white)
+
 A complete PostgreSQL implementation for an animal shelter database system. Developed as part of the Big Data & Analytics course at University of Europe.
 
 ## Features
@@ -35,7 +41,7 @@ A complete PostgreSQL implementation for an animal shelter database system. Deve
 To load them properly:
 
 ### In Python:
-```python
+
 import pandas as pd
 df = pd.read_csv("data/Adopter.csv", delimiter=";")
 
