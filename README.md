@@ -41,9 +41,10 @@ A complete PostgreSQL implementation for an animal shelter database system. Deve
 To load them properly:
 
 ### In Python:
-
+```python
 import pandas as pd
 df = pd.read_csv("data/Adopter.csv", delimiter=";")
+```
 
 ### In PostgreSQL:
 
