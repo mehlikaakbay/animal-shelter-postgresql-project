@@ -32,7 +32,6 @@ A complete PostgreSQL implementation for an animal shelter database system. Deve
 - `screenshots/`: (Optional) query result images
 - `report/`: Final project report (PDF)
 
----
 
 ## CSV Format Notice
 
@@ -44,6 +43,12 @@ To load them properly:
 ```python
 import pandas as pd
 df = pd.read_csv("data/Adopter.csv", delimiter=";")
+```
+### In PostgreSQL:
+```sql
+\copy adopter(adopter_id, full_name, email, phone, address)
+FROM 'data/Adopter.csv'
+WITH (FORMAT csv, DELIMITER ';', HEADER true);
 ```
   
 ## ERD Diagram
@@ -59,3 +64,8 @@ This diagram shows the full relational structure of the Animal Shelter Managemen
 
 ## Author
 Mehlika Rana Akbay
+
+
+## Disclaimer
+
+This project was developed as part of a university course assignment. Not intended for production use.
