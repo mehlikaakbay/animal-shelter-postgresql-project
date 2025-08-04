@@ -62,10 +62,9 @@ This diagram shows the full relational structure of the Animal Shelter Managemen
 - Query coverage: aggregation, filtering, joins, CTEs  
 - Professional project report and ERD diagram  
 
-## Author
-Mehlika Rana Akbay
-
-
 ## Disclaimer
 
 This project was developed as part of a university course assignment. Not intended for production use.
+
+## Author
+Mehlika Rana Akbay
